@@ -19,7 +19,7 @@ def calculate_do(do, t, otr, consumption_rate):
 st.title("Wastewater Treatment: Dissolved Oxygen Profile in Aeration Tank")
 
 # Display a fancy wastewater treatment image
-st.image("https://upload.wikimedia.org/wikipedia/commons/9/9f/Wastewater_Treatment_2.jpg", caption="Aeration Tank in Wastewater Treatment", use_column_width=True)
+st.image("https://upload.wikimedia.org/wikipedia/commons/c/ca/Belebungsbecken_-_aeration_tank_%2812359229313%29.jpg", caption="Aeration Tank in Wastewater Treatment", use_column_width=True)
 
 # Input parameters for simulation
 st.sidebar.header("Oxygen Transfer and Consumption Parameters")
